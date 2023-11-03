@@ -1,0 +1,15 @@
+[package]
+name = "cargo-shopify"
+version = "0.0.3"
+edition = "2021"
+license = "MIT"
+authors = ["looper <looper@loopercorp.com>"]
+repository = "https://github.com/loopercorp/cargo-shopify"
+keywords = ["Shopify"]
+readme = "readme.md"
+description = "Unofficial cargo tool for managing Shopify projects written in Rust."
+homepage = "https://loopercorp.github.io/cargo-shopify"
+documentation = "https://loopercorp.github.io/cargo-shopify"
+
+
+[dependencies]
